@@ -3,7 +3,7 @@ simple demo project
 
 ## About
 
-this is my repo in github
+this is my first repo in github
 
 ## Features
 
@@ -20,4 +20,4 @@ this is my repo in github
 
 ## Author
 
-- [Your name or GitHub username]# project1
+- [sneha ]# project1
